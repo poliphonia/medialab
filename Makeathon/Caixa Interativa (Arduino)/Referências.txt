@@ -1,0 +1,2 @@
+Sobre sensor LDR (de luminosidade) - com código de exemplo:
+https://www.arduinoecia.com.br/2013/09/controle-de-luz-com-ldr-e-arduino.html
